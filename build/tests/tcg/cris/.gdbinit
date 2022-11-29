@@ -1,0 +1,1 @@
+/home/ffan005/symqemu/tests/tcg/cris/.gdbinit
